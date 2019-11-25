@@ -1,0 +1,23 @@
+{
+  "name": "apiandmicroservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod":"node ad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pretrator/apiandmicroservice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pretrator/apiandmicroservice/issues"
+  },
+  "homepage": "https://github.com/pretrator/apiandmicroservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
